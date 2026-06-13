@@ -1,0 +1,3 @@
+Tops | 400
+Pants | 300
+Trousers | 350
