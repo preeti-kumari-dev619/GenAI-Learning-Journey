@@ -1,0 +1,7 @@
+Hello
+
+Python
+
+Exception Handling
+
+File operation attempted.
