@@ -2,7 +2,7 @@
 
 ## Student Information
 
-Name: Your Name
+Name: Preeti Kumari
 
 Assignment: Streamlit (Basic App Building)
 
